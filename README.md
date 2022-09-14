@@ -10,6 +10,6 @@ The application has an engaging comic color scheme ans is also mobile responsive
 
 ## Try it
 
-#### 1) git clone 
+#### 1) git clone https://github.com/devilcoder2209/to_do_list.git
 
 #### 2) Open in any Code Editor preferably VS code and run with live server.
